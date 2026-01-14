@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --hidden-import=tkinterdnd2 --collect-all tkinterdnd2 %1
